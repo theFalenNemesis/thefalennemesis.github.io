@@ -9,7 +9,7 @@ var bio = {
     },
     "welcomeMessage" : "I am technologically inclined, a fast learner, and motivated. I am currently enrolled at ICC for Computer Programming and Database Development while also taking various online courses.",
     "skills" : ["HTML", "CSS", "JavaScript", "jQuery", "PHP", "Java", "Android Development", "Visual Basic", "Visual C#", "Python", "mySQL"],
-    "biopic" : "images/me.jpg",
+    "biopic" : "images/me2.jpg",
     "display" : function () {
         var formattedName = HTMLheaderName.replace("%data%", bio.name);
         var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
