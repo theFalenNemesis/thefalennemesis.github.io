@@ -1,0 +1,39 @@
+#logo {
+    width: 25%;
+    margin-top: 1em;
+}
+
+.title {
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.title h1 {
+    vertical-align: middle;
+    display: inline;
+}
+
+.horizontal-line {
+    width: 100% !important;
+    border-width: 2px;
+    border-color: black;
+}
+
+#main-img {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.featured-work h2 {
+    text-align: center;
+}
+
+.project-info {
+    text-align: center;
+}
+
+.project-info img {
+    width: 300px;
+    height: 75%;
+    padding: 1em;
+}
