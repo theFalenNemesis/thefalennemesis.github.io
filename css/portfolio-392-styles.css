@@ -37,3 +37,40 @@
     height: 75%;
     padding: 1em;
 }
+
+.skills-certs {
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+    -moz-column-count: 4;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    padding-top: 1em;
+    margin-top: 1em;
+}
+
+.footer-list {
+    display: inline;
+    padding: 1em;
+    font-weight: bold;
+    color: white;
+}
+
+.footer-list a {
+    color: white;
+    text-decoration: underline;
+}
