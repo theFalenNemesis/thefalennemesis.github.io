@@ -1,0 +1,27 @@
+c:\users\britt_brandon\documents\visual studio 2015\Projects\MoneyCountSheet\MoneyCountSheet\bin\Debug\MoneyCountSheet.exe.config
+c:\users\britt_brandon\documents\visual studio 2015\Projects\MoneyCountSheet\MoneyCountSheet\bin\Debug\MoneyCountSheet.exe
+c:\users\britt_brandon\documents\visual studio 2015\Projects\MoneyCountSheet\MoneyCountSheet\bin\Debug\MoneyCountSheet.pdb
+c:\users\britt_brandon\documents\visual studio 2015\Projects\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.csprojResolveAssemblyReference.cache
+c:\users\britt_brandon\documents\visual studio 2015\Projects\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.Form1.resources
+c:\users\britt_brandon\documents\visual studio 2015\Projects\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.Properties.Resources.resources
+c:\users\britt_brandon\documents\visual studio 2015\Projects\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.csproj.GenerateResource.Cache
+c:\users\britt_brandon\documents\visual studio 2015\Projects\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.exe
+c:\users\britt_brandon\documents\visual studio 2015\Projects\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.pdb
+F:\MoneyCountSheet\MoneyCountSheet\bin\Debug\MoneyCountSheet.exe.config
+F:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.exe
+F:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.pdb
+E:\MoneyCountSheet\MoneyCountSheet\bin\Debug\MoneyCountSheet.exe.config
+E:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.exe
+E:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.pdb
+E:\MoneyCountSheet\MoneyCountSheet\bin\Debug\MoneyCountSheet.exe
+E:\MoneyCountSheet\MoneyCountSheet\bin\Debug\MoneyCountSheet.pdb
+E:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.csprojResolveAssemblyReference.cache
+E:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.Properties.Resources.resources
+E:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.csproj.GenerateResource.Cache
+E:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.CountForm.resources
+F:\MoneyCountSheet\MoneyCountSheet\bin\Debug\MoneyCountSheet.exe
+F:\MoneyCountSheet\MoneyCountSheet\bin\Debug\MoneyCountSheet.pdb
+F:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.csprojResolveAssemblyReference.cache
+F:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.CountForm.resources
+F:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.Properties.Resources.resources
+F:\MoneyCountSheet\MoneyCountSheet\obj\Debug\MoneyCountSheet.csproj.GenerateResource.Cache
