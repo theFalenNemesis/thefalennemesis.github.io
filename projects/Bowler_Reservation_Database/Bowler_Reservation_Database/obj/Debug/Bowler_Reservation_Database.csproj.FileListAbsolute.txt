@@ -1,0 +1,15 @@
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\bin\Debug\BowlerDatabase.mdf
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\bin\Debug\BowlerDatabase_log.ldf
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\bin\Debug\Bowler_Reservation_Database.exe.config
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\bin\Debug\Bowler_Reservation_Database.exe
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\bin\Debug\Bowler_Reservation_Database.pdb
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.addEntryForm.resources
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.mainForm.resources
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.Properties.Resources.resources
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.editForm.resources
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.sendEmail.resources
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.csproj.GenerateResource.Cache
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.exe
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.pdb
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.csprojResolveAssemblyReference.cache
+C:\Users\bonke\onedrive\documents\visual studio 2017\Projects\Bowler_Reservation_Database\Bowler_Reservation_Database\obj\Debug\Bowler_Reservation_Database.Password.resources
